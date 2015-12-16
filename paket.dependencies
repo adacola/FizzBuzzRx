@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2/
+framework >= net45
+nuget FSharp.Control.Reactive 3.2.0
+nuget FSharp.Core 4.0.0.1
+nuget Rx-Core 2.2.5
+nuget Rx-Interfaces 2.2.5
+nuget Rx-Linq 2.2.5
